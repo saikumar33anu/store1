@@ -1,0 +1,42 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Indie Flower', cursive;
+}
+body a:link{
+	text-decoration: none;
+}
+.navbar{
+	margin: 0px;
+}
+.banner{
+	width: 100%;
+	margin-top: -20px;
+}
+.carousel-inner img{
+	width: 100%;
+	height: 100%;
+}
+.intro{
+	width: 100%;
+	background-color: #FBF2EF;
+	margin-top:-30px;
+	padding:60px 0px;
+}
+.main{
+	width: 100%;
+	padding-bottom: 20px;
+	margin: 0px;
+}
+.row{
+	width: 100%;
+}
+.list{
+	border: 1px solid black;
+}
+
+footer{
+	width: 100%;
+	padding: 50px 0px;
+	background-color: #F2F2F2;
+}
